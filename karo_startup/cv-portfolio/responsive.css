@@ -1,0 +1,35 @@
+
+/* Screens Resolution : 767px
+-------------------------------------------------------------------------- */
+@media only screen and (max-width: 767px) {
+	
+	/* ---------------------------------
+	 PRIMARY STYLES
+	--------------------------------- */
+
+	h1{ font-size: 3em; }
+	
+	/* ---------------------------------
+	 PAGE DESIGN
+	--------------------------------- */
+
+	.section{ padding: 50px 0 0px; }
+
+	/* ---------------------------------
+	 EDUCATION SECTION
+	--------------------------------- */
+	
+	.education-wrapper:after,
+	.education-wrapper .education:after{ display: none; }
+
+
+
+/* Screens Resolution : 575px
+-------------------------------------------------------------------------- */
+@media only screen and (max-width: 575px) {
+	
+	body{ font-size: 14px; 
+
+
+
+
